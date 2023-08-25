@@ -18,6 +18,9 @@ In a departure from traditional projects, I am given the freedom to innovate wit
 - **Grid-based Seat Mapping**: Develop a grid structure that aligns with the seating arrangement and integrates smoothly into the parent app.
 - **Dynamic UI Controls**: Implement UI controls that dynamically adjust to different screen sizes, enhancing the user experience and booking efficiency.
 
+## Images 
+![Seat Booking Interface](source/Seating%20Idea.png)
+
 ## Technology Used
 - [HTML]
 - [CSS]
