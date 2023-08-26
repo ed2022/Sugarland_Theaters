@@ -1,0 +1,35 @@
+.screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.screen_box {
+  width: 600px;
+  height: 75px;
+  border: 1px solid rgb(187, 185, 185);
+  background-color:  rgb(187, 185, 185);
+  padding: 10px;
+  margin: 10px;
+}
+
+.sections {
+  display: flex; 
+  justify-content: space-around;
+}
+
+.box {
+  background-color: blue;
+  width: 10px;
+  height: 10px;
+  border: none;
+  padding: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.middle{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
